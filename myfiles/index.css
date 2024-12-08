@@ -1,0 +1,42 @@
+.nav-link{
+    color:white;;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-toggler-icon {
+  
+}
+.btn-danger{
+    background-color: teal;
+    border: 0.5px solid teal;
+}
+.bg-leap{
+    background: teal;
+}
+.me{
+    padding:30px;
+}
+.nav-item{
+    margin-left: 45px;
+}
+.bg-naa{
+    background: teal;
+}
+.form-control{
+    width: 400px;
+}
+.carousel img {
+    height: 100vh;/* Adjust as needed */ /* Ensure it spans the width of the carousel */
+  }
+.text-del{
+    color: white;
+    font-weight: 700;
+ }
+.carousel-caption{
+    margin-bottom: 100px;
+} 
+.text-me{
+    font-size: 40px;
+    color: teal;
+}
+
